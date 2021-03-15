@@ -1,4 +1,4 @@
-# quadratic 
+# Quadratic 
 '''
 x=(-b(+ or -)(b^2 -4ac)^0.5)/2a
 x=-b/2a  + or - D/2a
@@ -23,4 +23,4 @@ else:
 
 
 print(x1,x2)
-# print(typ(x1))
+# Prints the Value
